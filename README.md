@@ -1,2 +1,3 @@
-# javascript-style-guide
-eslint config
+# eslint-config-vivaxy
+
+Share eslint config within my projects
