@@ -1,6 +1,6 @@
 # eslint-config-vivaxy
 
-Share eslint config within my projects.
+Share eslint configs within my projects.
 
 # Installation
 
@@ -17,10 +17,12 @@ Share eslint config within my projects.
 ```json
 {
   "scripts": {
-    "lint": "eslint"
+    "lint": "eslint ."
   }
 }
 ```
+
+See more on [eslint](http://eslint.org/)
 
 # Contribute
 
