@@ -29,3 +29,7 @@ See more on [eslint](http://eslint.org/)
 ## Publish
 
 `yarn run release`
+
+# Change Log
+
+[Change log](CHANGELOG.md)
