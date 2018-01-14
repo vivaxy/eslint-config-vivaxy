@@ -33,7 +33,8 @@ module.exports = {
         'import/prefer-default-export': ['off'],
         // to use `await` to denote a value that is a thenable, the proformace issue should be taken care of by compiler
         'no-return-await': ['off'],
-        'consistent-return': ['off']
+        'consistent-return': ['off'],
+        'object-curly-newline': ['error', { 'multiline': true }]
     },
     env: { 'browser': true },
     parser: 'babel-eslint'
