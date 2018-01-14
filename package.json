@@ -4,7 +4,7 @@
   "description": "eslint config",
   "main": "index.js",
   "scripts": {
-    "release": "standard-version && git push origin master --follow-tags && npm publish"
+    "release": "standard-version && git push origin master --follow-tags && npm publish --registry=https://registry.npmjs.org/"
   },
   "repository": {
     "type": "git",
